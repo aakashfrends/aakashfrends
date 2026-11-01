@@ -36,10 +36,10 @@ WHERE Name = 'Aakash';
 
 ```yaml
 Name       : Aakash
-Role       : SQL Developer | Data Analyst
+Role       : HR Assistant
 Company    : Fusion Finance Ltd.
-Location   : Hisar, Haryana 🇮🇳
-Focus      : SQL | Power BI | Python | Tableau
+Location   : Gurugram, Haryana 
+Focus      : SQL | Power BI | Python | Tableau | Excel
 ```
 
 ---
